@@ -1,0 +1,9 @@
+{
+  "version": "1.1",
+  "downloadUrl": "https://elixnetwork.fr/EliXReports-1.1.jar",
+  "changelog": [
+    "Nouvelle fonctionnalité X ajoutée",
+    "Correction du bug Y",
+    "Amélioration des performances générales"
+  ]
+}
