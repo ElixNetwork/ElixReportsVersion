@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "downloadUrl": "https://builtbybit.com/resources/elixreports.61035/",
   "changelog": [
-    "- Patch bstats class obfuscation"
+    "- Patch bstats class"
   ]
 }
